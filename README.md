@@ -6,3 +6,4 @@ Additionally, this approach involved analyzing ECG signals represented as a seri
 
 To see more information regarding this project, you may take a look [here](https://github.com/CatalinACS/HW2_IAut/edit/main/Machine_Learning_Homework_2.pdf)
 
+For solving this classification task, basic Neural Networks constructions were used, with the help of TensorFlow and Pytorch frameworks.
